@@ -1,0 +1,116 @@
+1. Flight Search
+Test Case: Verify that users can search for flights.
+Steps:
+Navigate to the flight search page.
+Select departure and arrival locations.
+Select travel dates.
+Choose the number of passengers.
+Click on the "Search Flights" button.
+Expected Result: The system should display available flight options based on the search criteria.
+2. Flight Booking
+Test Case: Verify that users can successfully book a flight.
+Steps:
+Search for available flights.
+Select a flight from the results.
+Provide passenger details.
+Select seat preferences.
+Complete payment process.
+Expected Result: The user should receive a confirmation of the booked flight, including details and a booking reference number.
+3. Login/Sign-Up Functionality
+Test Case: Verify that users can log in or sign up for an account.
+Steps:
+Navigate to the login page.
+Enter valid credentials (for login) or fill out the sign-up form.
+Click on the "Log in" or "Sign up" button.
+Expected Result: The user should either be logged in or successfully create a new account and be redirected to their profile/dashboard.
+4. Flight Cancellation
+Test Case: Verify that users can cancel their flight bookings.
+Steps:
+Log in to the user account.
+Go to the "Manage Booking" section.
+Enter booking details and select the flight.
+Choose the option to cancel the booking.
+Confirm the cancellation.
+Expected Result: The flight should be successfully canceled, and the user should receive a cancellation confirmation.
+5. Check Flight Status
+Test Case: Verify that users can check the status of a flight.
+Steps:
+Navigate to the flight status page.
+Enter flight number or route details.
+Click on the "Check Status" button.
+Expected Result: The system should display the current status of the flight (on-time, delayed, etc.).
+6. Booking a Vacation Package
+Test Case: Verify that users can book vacation packages (flight + hotel).
+Steps:
+Navigate to the vacation package section.
+Select destination, dates, and number of travelers.
+Choose flights and hotel options.
+Complete the booking process.
+Expected Result: The user should receive a confirmation with vacation package details.
+7. Add Baggage to Existing Booking
+Test Case: Verify that users can add baggage to an existing booking.
+Steps:
+Log in and go to the "Manage Booking" section.
+Enter the booking reference and select the flight.
+Choose the option to add baggage.
+Complete the payment process.
+Expected Result: The system should update the booking with the additional baggage and send a confirmation.
+8. Seat Selection and Upgrade
+Test Case: Verify that users can select and upgrade seats.
+Steps:
+Book a flight or manage an existing booking.
+Navigate to the seat selection page.
+Choose or upgrade to a premium seat.
+Confirm the seat selection and complete any necessary payments.
+Expected Result: The seat should be successfully selected or upgraded, with confirmation displayed.
+9. Mileage Plan Points Display
+Test Case: Verify that users can view their Mileage Plan points balance.
+Steps:
+Log in to the user account.
+Navigate to the Mileage Plan section.
+Expected Result: The system should display the user's current Mileage Plan points balance.
+10. Forgot Password Functionality
+Test Case: Verify that the "Forgot Password" feature works correctly.
+Steps:
+Go to the login page.
+Click on the "Forgot Password" link.
+Enter a registered email address.
+Click on the "Submit" button.
+Expected Result: The system should send a password reset link to the user's email address.
+11. Flight Check-In
+Test Case: Verify that users can check in for their flight online.
+Steps:
+Navigate to the check-in page.
+Enter booking reference and last name.
+Select the flight and proceed to check in.
+Choose a seat or confirm the existing seat.
+Complete the check-in process.
+Expected Result: The user should be checked in successfully, and a boarding pass should be generated.
+12. Contact Us Page
+Test Case: Verify that users can access and submit the "Contact Us" form.
+Steps:
+Navigate to the "Contact Us" page.
+Fill out the contact form with name, email, and message.
+Submit the form.
+Expected Result: A confirmation message should appear, and the user's query should be successfully submitted.
+13. Price Alerts Subscription
+Test Case: Verify that users can subscribe to price alerts for a route.
+Steps:
+Go to the flight search page.
+Enter a departure and destination city.
+Click on the option to set up price alerts.
+Complete any necessary subscription steps.
+Expected Result: The user should be subscribed to price alerts and receive a confirmation.
+14. Mobile Responsiveness
+Test Case: Verify that the website is responsive on mobile devices.
+Steps:
+Open the website on a mobile browser (or simulate a mobile view).
+Navigate through various sections like flight search, booking, and account management.
+Expected Result: The website should be fully functional and display correctly on mobile devices.
+15. Language Switch
+Test Case: Verify that users can switch the website language.
+Steps:
+Navigate to the homepage.
+Select a different language (e.g., Spanish).
+Ensure that the website content updates accordingly.
+Expected Result: The entire website should switch to the selected language.
